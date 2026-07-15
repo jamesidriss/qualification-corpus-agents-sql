@@ -2,36 +2,34 @@ cff-version: 1.2.0
 message: "Merci de citer le mémoire associé à ce dépôt en utilisant la référence ci-dessous."
 
 authors:
-
-* family-names: "Ripoll"
-  given-names: "James"
+  - family-names: "Ripoll"
+    given-names: "James"
 
 title: "Dépôt accompagnant le mémoire sur la qualification préalable d’un corpus d’évaluation SQL"
 version: "1.0.0"
 date-released: 2026-07-15
 doi: "10.5281/zenodo.21367687"
-url: "https://doi.org/10.5281/zenodo.21367687"
+url: "https://github.com/jamesidriss/qualification-corpus-agents-sql"
 
 keywords:
-
-* "artificial intelligence agents"
-* "SQL"
-* "Text-to-SQL"
-* "data qualification"
-* "data quality"
-* "traceability"
-* "relational coverage"
-* "SQLite"
-* "reproducibility"
-* "French"
+  - "artificial intelligence agents"
+  - "SQL"
+  - "Text-to-SQL"
+  - "data qualification"
+  - "data quality"
+  - "traceability"
+  - "relational coverage"
+  - "SQLite"
+  - "reproducibility"
+  - "French"
 
 preferred-citation:
-type: report
-authors:
-- family-names: "Ripoll"
-given-names: "James"
-title: "Qualification préalable d’un corpus d’évaluation pour des agents d’intelligence artificielle produisant des requêtes SQL : conception et mise à l’épreuve d’un protocole local francophone de reconstruction, de traçabilité et de couverture relationnelle"
-year: 2026
-month: 7
-doi: "10.5281/zenodo.21367687"
-url: "https://doi.org/10.5281/zenodo.21367687"
+  type: report
+  authors:
+    - family-names: "Ripoll"
+      given-names: "James"
+  title: "Qualification préalable d’un corpus d’évaluation pour des agents d’intelligence artificielle produisant des requêtes SQL : conception et mise à l’épreuve d’un protocole local francophone de reconstruction, de traçabilité et de couverture relationnelle"
+  year: 2026
+  month: 7
+  doi: "10.5281/zenodo.21367687"
+  url: "https://doi.org/10.5281/zenodo.21367687"

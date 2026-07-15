@@ -110,7 +110,6 @@ Le mémoire apporte notamment :
 | `Memoire_James_Ripoll_Qualification_Corpus_Agents_SQL_2026.pdf` | Version publiée du mémoire                   |
 | `README.md`                                                     | Présentation générale du travail             |
 | `CITATION.cff`                                                  | Informations de citation lisibles par GitHub |
-| `LICENSE`                                                       | Conditions de réutilisation du contenu       |
 
 ## Citation recommandée
 
@@ -134,12 +133,10 @@ Les bases de données, fichiers JSON, schémas, marques, logiciels, publications
 
 Leur présence ou leur mention dans le mémoire n’implique pas un droit de redistribution dans ce dépôt.
 
-## Licence
-
 ## Droits d’auteur
 
 © 2026 James Ripoll. Tous droits réservés.
 
 La consultation publique de ce dépôt n’autorise pas la reproduction, la redistribution, la modification ou l’exploitation du mémoire sans autorisation préalable de l’auteur.
 
-© 2026 James Ripoll.
+Les données, logiciels, marques, publications et ressources appartenant à des tiers restent soumis à leurs propres licences et droits.

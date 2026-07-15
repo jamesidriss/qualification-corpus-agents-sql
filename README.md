@@ -136,6 +136,10 @@ Leur présence ou leur mention dans le mémoire n’implique pas un droit de red
 
 ## Licence
 
-Le mémoire et les contenus originaux de ce dépôt sont distribués selon la licence indiquée dans le fichier `LICENSE` et sur la fiche Zenodo.
+## Droits d’auteur
+
+© 2026 James Ripoll. Tous droits réservés.
+
+La consultation publique de ce dépôt n’autorise pas la reproduction, la redistribution, la modification ou l’exploitation du mémoire sans autorisation préalable de l’auteur.
 
 © 2026 James Ripoll.

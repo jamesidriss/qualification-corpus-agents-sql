@@ -4,6 +4,7 @@ message: "Merci de citer le mémoire associé à ce dépôt en utilisant la réf
 authors:
   - family-names: "Ripoll"
     given-names: "James"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
 
 title: "Dépôt accompagnant le mémoire sur la qualification préalable d’un corpus d’évaluation SQL"
 version: "1.0.0"
@@ -28,6 +29,7 @@ preferred-citation:
   authors:
     - family-names: "Ripoll"
       given-names: "James"
+      orcid: "https://orcid.org/0000-0000-0000-0000"
   title: "Qualification préalable d’un corpus d’évaluation pour des agents d’intelligence artificielle produisant des requêtes SQL : conception et mise à l’épreuve d’un protocole local francophone de reconstruction, de traçabilité et de couverture relationnelle"
   year: 2026
   month: 7
